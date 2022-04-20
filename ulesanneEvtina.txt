@@ -1,8 +1,0 @@
-fix the query and add a foreign key for tyyp
-
-1. CREATE TABLE loomad
-{
-	id int primary key identity(0,1),
-	nimetus varchar(50),
-	tyyp int
-};

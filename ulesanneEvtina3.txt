@@ -1,5 +1,6 @@
 write the transcript and phases in the correct order
 
-3.SDLC -
-3.1 how many phases in circle?
+3.SDLC - Software development life cycle
+3.1 how many phases in circle? 6
+Planning, Analysis; Design, Implemetation, Testing, Maintenance
 

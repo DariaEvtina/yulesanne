@@ -1,4 +1,4 @@
 fix the query so that the query shows only names(name) starting from A to C (A,B,C)
 
 SELECT * FROM Customers
-WHERE ...;
+WHERE name LIKE "A%" or LIKE "B%" or LIKE "C%";

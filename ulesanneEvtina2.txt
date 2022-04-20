@@ -1,4 +1,4 @@
 fix the query
 
-2. INSERT IN-TO loomad(id,nimetus,tyyp)
+2. INSERT INTO loomad(id,nimetus,tyyp)
 	VALUES("1","LOOM",1)
